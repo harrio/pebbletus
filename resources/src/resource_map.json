@@ -1,0 +1,26 @@
+
+{"friendlyVersion": "1.0",
+ "versionDefName": "APP_RESOURCES",
+ "media": [
+	   		  {
+	   		  "type": "png",
+              "defName": "IMAGE_ICON_APP",
+              "file": "images/app.png"
+              },
+              {
+              "type": "png",
+              "defName": "IMAGE_BUTTON_PLAY",
+              "file": "images/play.png"
+              },
+              {
+              "type": "png",
+              "defName": "IMAGE_BUTTON_PAUSE",
+              "file": "images/pause.png"
+              },
+              {
+              "type": "png",
+              "defName": "IMAGE_BUTTON_RESET",
+              "file": "images/reset.png"
+              }
+	  ]
+}
